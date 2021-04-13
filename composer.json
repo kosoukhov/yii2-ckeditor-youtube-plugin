@@ -1,0 +1,36 @@
+{
+  "name": "kosoukhov/yii2-ckeditor-youtube-plugin",
+  "description": "Yii2 Youtube embed plugin for CKEditor based on Youtube embed (https://github.com/fonini/ckeditor-youtube-plugin/releases/tag/v2.1.18)",
+  "version": "1.0.0",
+  "type": "yii2-extension",
+  "keywords": [
+    "kosoukhov",
+    "yii2",
+    "yii 2",
+    "ckeditor",
+    "extension",
+    "plugin",
+    "youtube",
+    "embed"
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/kosoukhov/yii2-ckeditor-youtube-plugin/issues",
+    "source": "https://github.com/kosoukhov/yii2-ckeditor-youtube-plugin"
+  },
+  "authors": [
+    {
+      "name": "Vadim Kosoukhov",
+      "email": "kosoukhov@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "ckeditor/ckeditor": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "kosoukhov\\ckeditor_youtube_plugin\\": "src"
+    }
+  }
+}
