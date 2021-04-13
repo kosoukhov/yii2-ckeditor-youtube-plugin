@@ -1,15 +1,15 @@
 YouTube embed CKEditor plugin for Yii2
 ======================================
 
-Yii2 YouTube embed plugin (as widget) for CKEditor
-
-Based on YouTube embed https://github.com/fonini/ckeditor-youtube-plugin/releases/tag/v2.1.18
+Yii2 YouTube embed plugin (as widget) for CKEditor based on YouTube embed
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
 [![Latest Stable Version](https://poser.pugx.org/kosoukhov/yii2-ckeditor-youtube-plugin/v/stable)](https://packagist.org/packages/kosoukhov/yii2-ckeditor-youtube-plugin)
 [![Total Downloads](https://poser.pugx.org/kosoukhov/yii2-ckeditor-youtube-plugin/downloads)](https://packagist.org/packages/kosoukhov/yii2-ckeditor-youtube-plugin)
 [![Latest Unstable Version](https://poser.pugx.org/kosoukhov/yii2-ckeditor-youtube-plugin/v/unstable)](https://packagist.org/packages/kosoukhov/yii2-ckeditor-youtube-plugin)
 [![License](https://poser.pugx.org/kosoukhov/yii2-ckeditor-youtube-plugin/license)](https://packagist.org/packages/kosoukhov/yii2-ckeditor-youtube-plugin)
+
+Based on YouTube embed https://github.com/fonini/ckeditor-youtube-plugin/releases/tag/v2.1.18
 
 Installation
 ------------
